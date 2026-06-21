@@ -198,22 +198,6 @@ GenAI-ML-Python/
 - Google Cloud account (for advanced AI labs)
 - 8GB+ RAM recommended for ML examples
 
-### **Quick Start - Basic Python:**
-```bash
-# Clone the repository
-git clone <repository-url>
-cd ML-and-GenAI-with-Python-2026-main
-
-# Start with basic examples
-cd Python/Example_Set_1_Basic_Programs
-python example_1_rectangle_area.py
-```
-
-### **Quick Start - ML & AI Labs:**
-```bash
-# Navigate to advanced labs
-cd ML_GenAI_Advanced_Labs
-
 # Set up environment (requires Google Cloud)
 bash scripts/setup_env.sh
 
@@ -230,7 +214,7 @@ jupyter notebook asl_core/notebooks/
 jupyter notebook Python/notebooks/
 
 # For practical ML applications
-jupyter notebook ML_Practical_Applications/
+jupyter notebook ML_Practical/
 ```
 
 ## 📚 **Detailed Learning Modules**
