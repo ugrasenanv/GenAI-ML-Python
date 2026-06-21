@@ -1,4 +1,4 @@
-# Python Programming Examples - Complete Learning Repository
+# Python Programming Examples
 
 A comprehensive collection of Python programming examples organized by difficulty and concept. Each example includes detailed implementation explanations, mathematical formulas, algorithms, and educational comments.
 
